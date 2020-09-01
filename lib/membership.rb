@@ -1,4 +1,5 @@
 class Membership
+  #billy
   attr_reader :cost, :lifter, :gym
 
   @@all = []

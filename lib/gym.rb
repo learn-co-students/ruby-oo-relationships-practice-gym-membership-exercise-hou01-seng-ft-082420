@@ -1,4 +1,5 @@
 class Gym
+  #billy
   attr_reader :name
 
   @@all = []

@@ -1,4 +1,5 @@
 class Lifter
+  #billy
   attr_reader :name, :lift_total
 
   @@all = []

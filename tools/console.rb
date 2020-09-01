@@ -3,6 +3,7 @@
 require_relative '../config/environment.rb'
 
 # test code goes here
+#billy
 
 b = Lifter.new("billy", 1200)
 s = Lifter.new("sara", 600)
