@@ -5,7 +5,7 @@ require_relative '../config/environment.rb'
 #Basic Attributes
     #Lifters
     man = Lifter.new('man',225)
-
+    
     #Gyms
     g1 = Gym.new('larrys')
 
